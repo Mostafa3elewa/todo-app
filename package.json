@@ -11,7 +11,9 @@
   "author": "Mostafa3elewa <mostafa.ahmed.elewa@gmail.com>",
   "contributors": [],
   "directories": {
-    "test": "test"
+    "lib": "src",
+    "test": "test/",
+    "config": "config/"
   },
   "engines": {
     "node": "^18.0.0",

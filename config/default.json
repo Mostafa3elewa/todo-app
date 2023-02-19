@@ -25,5 +25,5 @@
       "passwordField": "password"
     }
   },
-  "mongodb": "mongodb+srv://mostafaElewa:yCa@U-GqzsA8x@x@todo-app.mcvhsmc.mongodb.net/?retryWrites=true&w=majority"
+  "mongodb": "mongodb+srv://mostafaElewa:yCa%40U-GqzsA8x%40x@todo-app.mcvhsmc.mongodb.net/todo?retryWrites=true&w=majority"
 }
